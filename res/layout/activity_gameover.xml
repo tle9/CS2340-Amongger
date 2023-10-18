@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/space"
+    android:orientation="vertical"
+    tools:context=".GameOverActivity"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="100px"
+        android:layout_marginBottom="90px">
+        <TextView
+            android:id="@+id/gameover_FinalScore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="Final Score: 10000"
+            android:textColor="@color/white"
+            android:textFontWeight="700"
+            android:textSize="90px">
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="3px"
+            android:text="(☝ ՞ਊ ՞)☝"
+            android:textColor="@color/white"
+            android:textSize="50px">
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="750px"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="1000px"
+            android:layout_height="750px"
+            android:scaleType="fitCenter"
+            android:layout_marginLeft="40px"
+            android:src="@drawable/gameover">
+        </ImageView>
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/gameover_continueButton"
+        android:layout_width="90pt"
+        android:layout_height="40pt"
+        android:layout_marginTop="120px"
+        android:scaleType="fitCenter"
+        android:soundEffectsEnabled="true"
+        android:backgroundTint="@android:color/transparent"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:src="@drawable/continue1" />
+
+    <ImageButton
+        android:id="@+id/gameover_exitButton"
+        android:layout_width="50pt"
+        android:layout_height="30pt"
+        android:layout_marginTop="10px"
+        android:scaleType="fitCenter"
+        android:soundEffectsEnabled="true"
+        android:backgroundTint="@android:color/transparent"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:src="@drawable/exit1" />
+</LinearLayout>
