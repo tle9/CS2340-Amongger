@@ -18,3 +18,9 @@ the other end of the game map.
 There are two primary goals for this project.
 - The first goal is to provide you with experience collaborating with a team to develop a product with specific requirements.
 - The second goal is to increase your aptitude with several key software engineering principles, and standard modern technologies along with learning how to document your analysis and design with standard techniques.Over the course of the project, these concepts will be introduced to you so that they can be incorporated into your future sprints. With each project sprint after the first, testing will occur alongside development, and you will be responsible for writing unit tests to verify your implementation’s functionality.
+## Credits
+Lee, Christopher Jean [Georgia Tech GitHub Acount](https://github.gatech.edu/clee857)
+Kim, Knox [Georgia Tech GitHub Acount](https://github.gatech.edu/kkim818)
+Lim, Joo Hwan [Georgia Tech GitHub Acount](https://github.gatech.edu/jlim80)
+Liu, Yuxuan [Georgia Tech GitHub Acount](https://github.gatech.edu/yliu3460)
+Weng, Ryan [Georgia Tech GitHub Acount](https://github.gatech.edu/rweng8)
