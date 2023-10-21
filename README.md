@@ -11,6 +11,7 @@ Conduct object-oriented analysis and design and document it with standard techni
 ## About
 This repository containts the group work that I worked on. The orginal repository: https://github.gatech.edu/Team9/AmonggerDev.git (The commit history is preserved according to the users on github.gatech.edu)
 # Amongger
+![amongger](https://github.com/tle9/CS2340-Amongger/assets/148303927/59a20eed-0b4f-4885-993b-c377f109a30c)
 ## Background
 The team design and build a Cross the Road game. In this game, the player controls a character attempting to cross both rivers and roads. Roads are composed of separate lanes, each filled with vehicles of varying colors, speeds, and lengths moving in a direction specific to the lane. Rivers are also divided into separate lanes, in each of which logs float across the screen (which vary in speed, length, and direction). Rivers can be crossed by hopping on these logs in succession before they move off the screen. There may also be obstacles of different widths and heights scattered throughout the map, which the player is not hurt by but cannot cross. The goal of the game is to reach a goal tile at
 the other end of the game map.
@@ -18,6 +19,14 @@ the other end of the game map.
 There are two primary goals for this project.
 - The first goal is to provide you with experience collaborating with a team to develop a product with specific requirements.
 - The second goal is to increase your aptitude with several key software engineering principles, and standard modern technologies along with learning how to document your analysis and design with standard techniques.Over the course of the project, these concepts will be introduced to you so that they can be incorporated into your future sprints. With each project sprint after the first, testing will occur alongside development, and you will be responsible for writing unit tests to verify your implementation’s functionality.
+
+
+
+https://github.com/tle9/CS2340-Amongger/assets/148303927/802f4c1f-36f8-497a-9e4e-6bf3b08e80e4
+
+
+<img width="275" alt="Screen_Shot_2023-04-07_at_5 15 27_PM" src="https://github.com/tle9/CS2340-Amongger/assets/148303927/35676de9-9360-4f94-94b3-1b52c077515e">
+
 ## Credits
 - Lee, Christopher Jean [Georgia Tech GitHub Acount](https://github.gatech.edu/clee857)
 - Kim, Knox [Georgia Tech GitHub Acount](https://github.gatech.edu/kkim818)
