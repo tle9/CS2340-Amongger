@@ -28,8 +28,8 @@ https://github.com/tle9/CS2340-Amongger/assets/148303927/802f4c1f-36f8-497a-9e4e
 <img width="275" alt="Screen_Shot_2023-04-07_at_5 15 27_PM" src="https://github.com/tle9/CS2340-Amongger/assets/148303927/35676de9-9360-4f94-94b3-1b52c077515e">
 
 ## Credits
-- Lee, Christopher Jean [Georgia Tech GitHub Acount](https://github.gatech.edu/clee857)
-- Kim, Knox [Georgia Tech GitHub Acount](https://github.gatech.edu/kkim818)
-- Lim, Joo Hwan [Georgia Tech GitHub Acount](https://github.gatech.edu/jlim80)
-- Liu, Yuxuan [Georgia Tech GitHub Acount](https://github.gatech.edu/yliu3460)
-- Weng, Ryan [Georgia Tech GitHub Acount](https://github.gatech.edu/rweng8)
+- Lee, Christopher Jean [Georgia Tech GitHub Account](https://github.gatech.edu/clee857)
+- Kim, Knox [Georgia Tech GitHub Account](https://github.gatech.edu/kkim818)
+- Lim, Joo Hwan [Georgia Tech GitHub Account](https://github.gatech.edu/jlim80)
+- Liu, Yuxuan [Georgia Tech GitHub Account](https://github.gatech.edu/yliu3460)
+- Weng, Ryan [Georgia Tech GitHub Account](https://github.gatech.edu/rweng8)
